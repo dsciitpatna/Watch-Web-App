@@ -23,20 +23,20 @@ Our chat channel is to be found on Gitter [here](https://gitter.im/dsciitpatna/T
 
 ### Components
 
-* HTML - Generated structure of the web page.
+* HTML - Generated structure of the web page.
 
-* CSS - Web page styling options and details.
+* CSS - Web page styling options and details.
 
-* Javascript(JSON) - Used to store information for deploying the application, such as dependencies.
+* Javascript(JSON) - Used to store information for deploying the application, such as dependencies.
 
-* ReactJS - Structure for deployment of the web page.
+* ReactJS - Structure for deployment of the web page.
 
 
 ## Requirements
 
-* node --version >= 6
+* node --version >= 6
 
-* npm --version >= 3
+* npm --version >= 3
 
 
 ## License
