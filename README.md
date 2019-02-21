@@ -1,27 +1,27 @@
-# Team Work Web App
+# Team Work Web App
 
 Team Work Web App is solution to the issue that a person might not complete his duties on time and with complete dedication after he is assigned a responsibility.
 This would involve creating a platform where several tasks can be queued for a person by the committee head. If the person fails to do so, his rating would drop among his peers. This would impact his work profile as actual nature and work would be ported in the public domain. 
 To scale it up it could be used in commercial organizations to monitor work and efficiency of employees.
 
 
-## How it will create an Imapct?
+## How it will create an Imapct?
 
-* Increased Accountability: The person would be more accountable for his job.
+* Increased Accountability: The person would be more accountable for his job.
 
-* Feedback: Based on feedback by this app, suitable measures can be taken by the committee head.
+* Feedback: Based on feedback by this app, suitable measures can be taken by the committee head.
 
 
-## Communication
+## Communication
 
 
 Our chat channel is to be found on Gitter [here](https://gitter.im/dsciitpatna/TeamWork)
 
 
-## Technology Stack
+## Technology Stack
 
 
-### Components
+### Components
 
 * HTML - Generated structure of the web page.
 
@@ -32,14 +32,14 @@ Our chat channel is to be found on Gitter [here](https://gitter.im/dsciitpatna/T
 * ReactJS - Structure for deployment of the web page.
 
 
-## Requirements
+## Requirements
 
 * node --version >= 6
 
 * npm --version >= 3
 
 
-## License
+## License
 
 
 This repository is under [MIT License](LICENSE)
