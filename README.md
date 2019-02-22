@@ -30,13 +30,16 @@ Our chat channel is to be found on Gitter [here](https://gitter.im/dsciitpatna/T
 * Javascript(JSON) - Used to store information for deploying the application, such as dependencies.
 
 
-
 ## Requirements
 
 * node --version >= 6
 
 * npm --version >= 3
 
+
+## Team
+
+* Project Head - Amish Mittal (fliptrail)
 
 ## License
 
