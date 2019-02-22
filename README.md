@@ -17,7 +17,7 @@ To scale it up it could be used in commercial organizations to monitor work and 
 Our chat channel is to be found on Gitter [here](https://gitter.im/dsciitpatna/TeamWork)
 
 
-### Components
+## Components
 
 * ReactJS - Structure for deployment of the web page.
 
